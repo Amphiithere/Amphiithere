@@ -1,5 +1,5 @@
 <h1>⭐Hiya! I'm Amphiithere!⭐</h1>
-I enjoy making cursed software, dissecting programs, and writing about different technical topics.  
+I enjoy making fun, exploratory software, dissecting programs, and writing about different technical topics.  
 I'm interested in a wide variety of topics, including: Computer Networking, Operating Systems, Software Development, Secure Development Operations, Malware Analysis, and Reverse Engineering.
 <br>
 <br>
