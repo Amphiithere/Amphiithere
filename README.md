@@ -1,4 +1,16 @@
-<h1>Programming languages I've worked with</h1>
+<h1>⭐Hiya! I'm Amphiithere!⭐</h1>
+I enjoy making cursed software, dissecting programs, and writing about different technical topics.  
+I'm interested in a wide variety of topics, including: Computer Networking, Operating Systems, Software Development, Secure Development Operations, and Reverse Engineering.
+<br>
+<br>
+<br>
+The aesthetics of the old web may be dead, but its creativity will live on.
+
+Support Open-Source Projects!
+<br>
+<br>
+<br>
+<h2>Programming languages I've worked with</h2>
 
 ![C](https://img.shields.io/badge/c-C?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=363737&color=grey)
 ![C++](https://img.shields.io/badge/c++-C++?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=363737&color=grey)
@@ -7,8 +19,11 @@
 ![Typescript](https://img.shields.io/badge/typescript-TypeScript?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=363737&color=grey)
 ![CSS](https://img.shields.io/badge/css-CSS?style=for-the-badge&logo=css&logoColor=663399&labelColor=363737&color=grey)
 ![HTML](https://img.shields.io/badge/html-HTML?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=363737&color=grey)
+![Java](https://img.shields.io/badge/java-Java?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KPHBhdGggZD0iTTE2LjA0OTcgOC40NDA2MkMyMi42Mzc4IDMuMzI2MDcgMTkuMjU2NiAwIDE5LjI1NjYgMEMxOS43NTk4IDUuMjg3MzggMTMuODEzIDYuNTM1ODMgMTIuMjE4OSAxMC4xNjkyQzExLjEzMTIgMTIuNjQ4NSAxMi45NjM4IDE0LjgxOTMgMTYuMDQ3NSAxNy41NTU0QzE1Ljc3NDkgMTYuOTQ5NCAxNS4zNTQ0IDE2LjM2MDYgMTQuOTI4OCAxNS43NjQ1QzEzLjQ3NjkgMTMuNzMxMyAxMS45NjQ1IDExLjYxMzIgMTYuMDQ5NyA4LjQ0MDYyWiIgZmlsbD0iI0U3NkYwMCIvPg0KPHBhdGggZD0iTTE3LjEwMTUgMTguNjc3QzE3LjEwMTUgMTguNjc3IDE5LjA4MzUgMTcuMDc3OSAxNy41MTM5IDE1LjMwMDhDMTIuMTkzMSA5LjI3MTg2IDIzLjMzMzMgNi41MzU4MyAyMy4zMzMzIDYuNTM1ODNDMTYuNTMxNyA5LjgxMjUgMTcuNTQ3MSAxMS43NTc0IDE5LjI1NjcgMTQuMTIwMkMyMS4wODcxIDE2LjY1MzggMTcuMTAxNSAxOC42NzcgMTcuMTAxNSAxOC42NzdaIiBmaWxsPSIjRTc2RjAwIi8+DQo8cGF0aCBkPSJNMjIuOTM3IDIzLjQ0NTZDMjkuMDQyMyAyMC4zMjU4IDI2LjIxOTUgMTcuMzI3OCAyNC4yNDkyIDE3LjczMTdDMjMuNzY2MiAxNy44MzA1IDIzLjU1MDkgMTcuOTE2MiAyMy41NTA5IDE3LjkxNjJDMjMuNTUwOSAxNy45MTYyIDIzLjczMDIgMTcuNjQgMjQuMDcyNiAxNy41MjA0QzI3Ljk3MDUgMTYuMTcyOSAzMC45NjgyIDIxLjQ5NDkgMjIuODE0MyAyMy42MDI4QzIyLjgxNDMgMjMuNjAyOSAyMi45MDg4IDIzLjUxOTggMjIuOTM3IDIzLjQ0NTZaIiBmaWxsPSIjNTM4MkExIi8+DQo8cGF0aCBkPSJNMTAuMjMzIDE5LjQ5NjlDNi40MTMxMiAxOC45OTUzIDEyLjMyNzUgMTcuNjEzOSAxMi4zMjc1IDE3LjYxMzlDMTIuMzI3NSAxNy42MTM5IDEwLjAzMDcgMTcuNDYxNiA3LjIwNTkyIDE4LjgwNDNDMy44NjU3NyAyMC4zOTMyIDE1LjQ2ODEgMjEuMTE1OCAyMS40NzQgMTkuNTYyNUMyMi4wOTg0IDE5LjE0MzIgMjIuOTYxNCAxOC43Nzk4IDIyLjk2MTQgMTguNzc5OEMyMi45NjE0IDE4Ljc3OTggMjAuNTAzNyAxOS4yMTE0IDE4LjA1NjEgMTkuNDE0NUMxNS4wNjEyIDE5LjY2MTIgMTEuODQ1OSAxOS43MDkzIDEwLjIzMyAxOS40OTY5WiIgZmlsbD0iIzUzODJBMSIvPg0KPHBhdGggZD0iTTExLjY4NjQgMjIuNDc1OEM5LjU1NjI0IDIyLjI1OTIgMTAuOTUxIDIxLjI0MzkgMTAuOTUxIDIxLjI0MzlDNS40Mzg5OCAyMy4wNDI5IDE0LjAxNzggMjUuMDgzIDIxLjcxOTkgMjIuODY4MkMyMC45MDEyIDIyLjU4NDQgMjAuMzgwNiAyMi4wNjUzIDIwLjM4MDYgMjIuMDY1M0MxNi42MTYzIDIyLjc3ODEgMTQuNDQxIDIyLjc1NTMgMTEuNjg2NCAyMi40NzU4WiIgZmlsbD0iIzUzODJBMSIvPg0KPHBhdGggZD0iTTEyLjYxNDUgMjUuNjk5MUMxMC40ODYgMjUuNDU4NSAxMS43Mjk1IDI0Ljc0NzQgMTEuNzI5NSAyNC43NDc0QzYuNzI1OTQgMjYuMTIyMiAxNC43NzI5IDI4Ljk2MjUgMjEuMTQzMyAyNi4yNzc3QzIwLjA5OTkgMjUuODc4NyAxOS4zNTI4IDI1LjQxODEgMTkuMzUyOCAyNS40MTgxQzE2LjUxMTEgMjUuOTQ2OSAxNS4xOTMxIDI1Ljk4ODQgMTIuNjE0NSAyNS42OTkxWiIgZmlsbD0iIzUzODJBMSIvPg0KPHBhdGggZD0iTTI1LjkzODcgMjcuMzM4OEMyNS45Mzg3IDI3LjMzODggMjYuODU4OSAyOC4wODQ0IDI0LjkyNTIgMjguNjYxMkMyMS4yNDgxIDI5Ljc1NjYgOS42MjA5MyAzMC4wODc0IDYuMzkwOTQgMjguNzA0OUM1LjIyOTg0IDI4LjIwODIgNy40MDcyMyAyNy41MTg5IDguMDkyMTUgMjcuMzc0MkM4LjgwNjQ2IDI3LjIyMTkgOS4yMTQ2NiAyNy4yNTAzIDkuMjE0NjYgMjcuMjUwM0M3LjkyMzQgMjYuMzU1OCAwLjg2ODQ4OSAyOS4wMDY3IDUuNjMxMTEgMjkuNzY1OUMxOC42MTk1IDMxLjgzNzIgMjkuMzA3NyAyOC44MzMxIDI1LjkzODcgMjcuMzM4OFoiIGZpbGw9IiM1MzgyQTEiLz4NCjxwYXRoIGQ9Ik0yOCAyOC45Njc5QzI3Ljc4NjkgMzEuNjk0NyAxOC43ODc3IDMyLjI2ODMgMTIuOTI3NCAzMS44OTk0QzkuMTA0MzIgMzEuNjU4MyA4LjMzODEyIDMxLjA1NTggOC4zMjY5MSAzMS4wNDdDMTEuOTg1OSAzMS42NDAyIDE4LjE1NDkgMzEuNzQ4MiAyMy4xNTY4IDMwLjgyMjVDMjcuNTkwMyAzMC4wMDE2IDI4IDI4Ljk2NzkgMjggMjguOTY3OVoiIGZpbGw9IiM1MzgyQTEiLz4NCjwvc3ZnPg==&labelColor=363737&color=grey)
+![PHP](https://img.shields.io/badge/php-PHP?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=363737&color=grey)
 
-<h1>Technologies I've worked with</h1>
+
+<h2>Technologies I've worked with</h1>
 
 ![Jekyll](https://img.shields.io/badge/jekyll-Jekyll?style=for-the-badge&logo=jekyll&logoColor=CC0000&labelColor=363737&color=grey)
 ![Ansible](https://img.shields.io/badge/ansible-Ansible?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=363737&color=grey)
@@ -17,18 +32,3 @@
 ![Node.js](https://img.shields.io/badge/nodejs-Nodedotjs?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=363737&color=grey)
 ![Postman](https://img.shields.io/badge/postman-Postman?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=363737&color=grey)
 ![MongoDB](https://img.shields.io/badge/mongodb-MongoDB?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=363737&color=grey)
-
-<!--
-**Amphiithere/Amphiithere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
