@@ -3,11 +3,10 @@ I enjoy making fun, exploratory software, dissecting programs, and writing about
 I'm interested in a wide variety of subjects, including: Computer Networking, Operating Systems, Software Development, Secure Development Operations, Malware Analysis, and Reverse Engineering.
 <br>
 <br>
+The aesthetics of the old web may be dead, but its creativity will live on.  
 <br>
-The aesthetics of the old web may be dead, but its creativity will live on.
-
+<br>
 Support Open-Source Projects!
-<br>
 <br>
 <br>
 <h2>Programming languages I've worked with</h2>
